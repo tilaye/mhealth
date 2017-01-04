@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_activity_layout_bg">#FCF9F7</color>
+    <color name="action_bar_bg_color">#000000</color>
+
+    <color name="action_bar_txt_color">#39CA74</color>
+
+    <color name="button_main_activity_border">#138943</color>
+
+    <color name="button_main_activity_bg_pressed_true">#C6F5D8</color>
+    <color name="button_main_activity_bg_pressed_false">#EAFCF1</color>
+</resources>

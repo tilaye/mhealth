@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"ጤናችን"</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_disease">"በሽታዎች"</string>
+    <string name="title_activity_symptom">"ምልክቶች"</string>
+    <string name="title_activity_the_body">"ሰውነታችን"</string>
+    <string name="title_activity_institution">"ተቋማት"</string>
+</resources>

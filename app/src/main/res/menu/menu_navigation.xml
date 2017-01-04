@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <item android:id="@+id/action_home"
+          android:title=""
+          android:icon="@drawable/home32"
+          app:showAsAction="always"/>
+    <item android:id="@+id/action_disease"
+          android:title="@string/title_activity_disease"
+          android:icon="@drawable/disease32"
+          app:showAsAction="always"/>
+    <item android:id="@+id/action_symptom"
+          android:title="@string/title_activity_symptom"
+          android:icon="@drawable/symptom32"
+          app:showAsAction="always"/>
+    <item android:id="@+id/action_the_body"
+          android:title="@string/title_activity_the_body"
+          android:icon="@drawable/thebody32"
+          app:showAsAction="always"/>
+    <item android:id="@+id/action_institution"
+          android:title="@string/title_activity_institution"
+          android:icon="@drawable/institution32"
+          app:showAsAction="always"/>
+</menu>

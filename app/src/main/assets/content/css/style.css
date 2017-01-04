@@ -1,0 +1,28 @@
+body {
+    background-color: #FCF9F7;
+    color:#0B301A;
+}
+
+.m_title {
+  font-size:120%;
+  font-weight: bold;
+  text-align:center;
+  color:#11522B;
+}
+
+.m_subtitle {
+  font-weight: bold;
+  text-align:center;
+  padding-top:20px;
+  color:#11522B;
+}
+
+img.anatomy {
+    display: block;
+    margin: 0 auto;
+}
+
+a { color:#256F43; }
+a:visited { color:#256F43; }
+a:hover { color:#256F43; }
+a:active { color:#256F43; }

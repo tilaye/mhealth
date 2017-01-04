@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/CustomActionBarStyle</item>
+    </style>
+    <style name="CustomActionBarStyle" parent="Widget.AppCompat.Light.ActionBar">
+        <item name="background">@color/action_bar_bg_color</item>
+        <item name="titleTextStyle">@style/CustomActionBarTitleTextStyle</item>
+    </style>
+    <style name="CustomActionBarTitleTextStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="background">@color/action_bar_bg_color</item>
+        <item name="android:textColor">@color/action_bar_txt_color</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
